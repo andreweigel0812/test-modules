@@ -35,6 +35,6 @@
             "system": "pf2e"
         }
     ],
-    "manifest": "http://localhost:9000/compendium2module/generated-module-1678917229377/module.json",
-    "download": "http://localhost:9000/compendium2module/generated-module-1678917229377/module-zip.txt"
+    "manifest": "https://github.com/andreweigel0812/test-modules/generated-module-1678917229377/module.json",
+    "download": "https://github.com/andreweigel0812/test-modules/generated-module-1678917229377//module-zip.txt"
 }
