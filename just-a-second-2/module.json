@@ -1,0 +1,40 @@
+{
+    "name": "just-a-second-2",
+    "title": "just-a-second-2",
+    "description": "A module containing the exported just-a-second-2 compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 10,
+        "maximum": 11
+    },
+    "authors": [
+        {
+            "name": "Andrew Eigel",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "packs": [
+        {
+            "type": "Item",
+            "label": "Just A Second 2",
+            "module": "just-a-second-2",
+            "path": "packs/legendary-production-just-a-second-2-1678920723718.db",
+            "name": "legendary-production-just-a-second-2-1678920723718",
+            "system": "pf2e"
+        },
+        {
+            "type": "JournalEntry",
+            "label": "JustAJournal2",
+            "module": "just-a-second-2",
+            "path": "packs/legendary-production-justajournal2-1678920723718.db",
+            "name": "legendary-production-justajournal2-1678920723718",
+            "system": "pf2e"
+        }
+    ],
+    "manifest": "https://raw.github.com/andreweigel0812/test-modules/just-a-second-2/module.json"
+	"download": "https://github.com/andreweigel0812/test-modules/just-a-second-2/module-zip.txt"
+}
