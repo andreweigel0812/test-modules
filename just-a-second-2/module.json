@@ -35,6 +35,6 @@
             "system": "pf2e"
         }
     ],
-    "manifest": "https://githubusercontent.com/andreweigel0812/test-modules/main/just-a-second-2/module.json",
+    "manifest": "https://raw.githubusercontent.com/andreweigel0812/test-modules/main/just-a-second-2/module.json",
     "download": "https://github.com/andreweigel0812/test-modules/tree/main/just-a-second-2/just-a-second-2.zip?raw=true"
 }
